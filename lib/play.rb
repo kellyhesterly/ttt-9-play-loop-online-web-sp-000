@@ -39,4 +39,3 @@ end
 def play(board)
   turn(board).times.9
 end
-end
